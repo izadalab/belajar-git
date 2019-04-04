@@ -37,4 +37,3 @@
 	`git branch -d nama-branch`
 - Menghapus branch tertentu di remote
 	`git push nama-remote :nama-branch`
-- Add bug xxx
