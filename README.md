@@ -20,3 +20,7 @@
 	`git push -u nama-remote nama-branch`
 - Mendownload/mengambil perubahan dari remote ke working folder
 	`git pull nama-remote nama-branch`
+- Menghapus perubahan di staging
+	`git reset`
+- Menghapus perubahan di staging dan working folder
+	`git reset --hard`
