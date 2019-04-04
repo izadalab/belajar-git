@@ -30,4 +30,10 @@
 	`git branch nama-branch`
 - Pindah ke branch tertentu
 	`git checkout nama-branch`
-
+- Merge branch tertentu ke master
+	`git checkout master`
+	`git merge nama-branch`
+- Menghapus branch tertentu di lokal
+	`git branch -d nama-branch`
+- Menghapus branch tertentu di remote
+	`git push nama-remote :nama-branch`
