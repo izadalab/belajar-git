@@ -18,3 +18,5 @@
 	`git remote add github https://github.com/izadalab/belajar-git.git`
 - Mengupload repo lokal ke remote
 	`git push -u nama-remote nama-branch`
+- Mendownload/mengambil perubahan dari remote ke working folder
+	`git pull nama-remote nama-branch`
