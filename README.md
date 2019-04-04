@@ -24,3 +24,10 @@
 	`git reset`
 - Menghapus perubahan di staging dan working folder
 	`git reset --hard`
+- Melihat daftar branch
+	`git branch -all`
+- Membuat branch baru
+	`git branch nama-branch`
+- Pindah ke branch tertentu
+	`git checkout nama-branch`
+
